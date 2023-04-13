@@ -2,6 +2,8 @@
 
 React App that displays volcanic data throughout New Zealand by interacting with an API provided by GeoNet.
 
+Currently hosted through firebase can access website through https://geoval-bc6d9.web.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
