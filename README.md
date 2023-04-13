@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# GeoVal
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+React App that displays volcanic data throughout New Zealand by interacting with an API provided by GeoNet.
 
 ## Available Scripts
 
